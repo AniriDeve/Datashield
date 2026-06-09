@@ -7,7 +7,7 @@ Android application for generating official personal data deletion requests (FZ-
 
 Архитектура проекта 
 Проект будет построен по принципам Clean Architecture:
--**data** - работа с данными (база,файлы,API)
+-**data** - работа с данными (база,файлы,API))
 -**domain** - бизнесс-логика приложения
 -**зpresentation** - логика экранов и состояниие UI
 -**ui** - компоненты интерфейса (Compose UI)
